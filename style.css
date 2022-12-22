@@ -1,0 +1,204 @@
+.header{
+    background-color: rgb(238, 238, 241);
+    width: 100%;
+    height: 80px;
+}
+body{
+    background-color: rgb(238, 238, 241);
+}
+.color{
+    background-color: rgb(116, 116, 179);
+    width: 50px;
+    height: 50px;
+    border-radius: 25px 25px 25px 25px;
+    margin-left: 20px;
+
+   
+}
+ .sam{
+    margin-top: -20px;
+    display: inline-block;
+} 
+.man{
+    margin-left: 260px;
+    width: 40px;
+    position: absolute;
+    top: 15px;
+}
+
+.stat{
+    margin-left: 320px;
+    width: 40px;
+    position: absolute;
+    top: 15px;
+    
+}
+.menu{
+    margin-left: 380px;
+    width: 40px;
+    position: absolute;
+    top: 15px;
+}
+.ico{
+    margin-left: 430px;
+    width: 40px;
+    position: absolute;
+    top: 15px;
+}
+.right{
+    background-color: rgb(245, 245, 245);
+    width: 500px;
+    height: 600px;
+}
+.inp{
+    margin-top: 15px;
+    height: 40px;
+    width: 400px;
+    border-radius: 10px 10px 10px 10px ;
+}
+.wifi{
+    width: 30px;
+    margin-left: 20px;
+   position: absolute;
+   top: 110px;
+}
+.images{
+    width: 100px;
+    padding: 10px;
+    margin-top: 10px;
+}
+ .flower{
+    width: 50px;
+   margin-top: 10px;
+   border-radius: 20px 20px 20px 20px ;
+}
+.car{
+    width: 50px;
+    margin-top: 10px;
+    border-radius: 20px 20px 20px 20px ;
+    height: 40px;
+}
+.flower{
+    width: 50px;
+    margin-top: 10px;
+    border-radius: 20px 20px 20px 20px ;
+    height: 40px;
+}
+.manee{
+    width: 50px;
+    margin-top: 10px;
+    border-radius: 20px 20px 20px 20px ;
+    height: 40px;
+}
+
+.maos{
+    width: 50px;
+    margin-top: 10px;
+    border-radius: 20px 20px 20px 20px ;
+}
+.teacher{
+    width: 50px;
+    margin-top: 10px;
+    border-radius: 20px 20px 20px 20px ;
+    height: 40px;
+}
+.road{
+    width: 50px;
+    margin-top: 10px;
+    border-radius: 20px 20px 20px 20px ;
+    height: 40px;
+}
+.pubj{
+    width: 50px;
+    margin-top: 10px;
+    border-radius: 20px 20px 20px 20px ;
+    /* height: 40px; */
+}
+.batch{
+    background-color: rgb(245, 245, 245); 
+   width: 300px;
+   height: 600px;
+   margin-left: 70px;
+   margin-top: -470px;
+   padding-top: -10px;
+}
+
+.head2{
+    margin-top: -10px;
+}
+.head3{
+    margin-top: -10px;
+}
+.head4{
+
+    margin-top: -10px;
+}
+.head6{
+
+    margin-top: -10px;
+}
+.head6{
+
+    margin-top: -10px;
+}
+.head1:hover{
+    background-color: rgb(198, 198, 209);
+    cursor: pointer;
+    border-radius: 10px 10px 10px 10px ;
+}
+.head2:hover{
+    background-color: rgb(198, 198, 209);
+    cursor: pointer;
+    border-radius: 10px 10px 10px 10px ;
+}
+.head3:hover{
+    background-color: rgb(198, 198, 209);
+    cursor: pointer;
+    border-radius: 10px 10px 10px 10px ;
+}
+.head4:hover{
+    background-color: rgb(198, 198, 209);
+    cursor: pointer;
+    border-radius: 10px 10px 10px 10px ;
+}
+.head5:hover{
+    background-color: rgb(198, 198, 209);
+    cursor: pointer;
+    border-radius: 10px 10px 10px 10px ;
+}
+.head6:hover{
+    background-color: rgb(198, 198, 209);
+    cursor: pointer;
+    border-radius: 10px 10px 10px 10px ;
+}
+.head7:hover{
+    background-color: rgb(198, 198, 209);
+    cursor: pointer;
+    border-radius: 10px 10px 10px 10px ;
+}
+.head8:hover{
+    background-color: rgb(198, 198, 209);
+    cursor: pointer;
+    border-radius: 10px 10px 10px 10px ;
+}
+.centre{
+ 
+    width: 200px;
+    height: 600px;
+    margin-top: -630px;
+    margin-left: 420px;
+  
+}
+
+.seven:hover{
+    background-color: rgb(198, 198, 209);
+  width: 80px;
+    border-radius: 10px 10px 10px 10px ;
+}
+.scan{
+    margin-left: 520px;
+   position: absolute;
+   top: 110px;
+   width: 900px;
+   height: 500px;
+}
